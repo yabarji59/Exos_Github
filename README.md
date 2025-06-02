@@ -14,12 +14,14 @@ Ce dépôt contient une série d'exercices pratiques pour apprendre à utiliser 
 ## 🧩 Exercice 1 – Initialiser un projet Git localement
 
 1. Crée un dossier `mon-premier-projet`.
+
 2. Initialise Git :
    ```bash
    git init
-````
+   ```
 
 3. Crée un fichier `index.html` avec un squelette HTML.
+
 4. Vérifie l’état :
 
    ```bash
